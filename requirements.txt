@@ -1,0 +1,9 @@
+numpy
+tqdm
+transformers
+pandas
+scikit-learn
+datasets
+rocket-python
+pymysql
+openpyxl

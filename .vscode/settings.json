@@ -1,0 +1,12 @@
+{
+    "python.analysis.extraPaths": [
+        "./tasks/pheme",
+        "./tasks/pheme"
+    ],
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticSeverityOverrides": {"reportGeneralTypeIssues":"none"},
+    "python.linting.pylintArgs": [
+        "--generate-members"
+    ],
+    "python.pythonPath": "/opt/conda/envs/pytorch1.8/bin/python"
+}

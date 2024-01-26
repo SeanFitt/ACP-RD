@@ -1,0 +1,27 @@
+/tasks/pheme/dataset/
+/tasks/pheme_origin/
+/tasks/pheme/result/
+/Jupyter Notebook/
+**/__pycache__/
+/checkpoints/
+run.ipynb
+.ipynb_checkpoints
+test.csv
+test.xls
+test.xlsx
+test_trainer
+.idea/.gitignore
+.idea/.name
+.idea/misc.xml
+.idea/modules.xml
+.idea/prompt-tuning-v2.iml
+.idea/vcs.xml
+.idea/inspectionProfiles/profiles_settings.xml
+pre_trained_model/
+pre_trained_model/
+rocket_message_helper.py
+f1_error_label_ids.npy
+f1_error_predictions.npy
+*.out
+ACF.txt
+result.txt
